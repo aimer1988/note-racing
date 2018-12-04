@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/aimer1988/note-racing/issues"
   },
-  "homepage": "https://github.com/aimer1988/note-racing#readme"
+  "homepage": "https://github.com/aimer1988/note-racing#readme",
+  "devDependencies": {
+    "@babel/core": "^7.2.0",
+    "@babel/preset-env": "^7.2.0",
+    "babel-loader": "^8.0.4"
+  }
 }
