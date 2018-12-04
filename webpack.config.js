@@ -55,5 +55,11 @@ module.exports = {
         ]
       }
     ]
+  },
+  resolve: {
+    alias: {
+      // eslint-disable-next-line
+      '@pages': path.resolve(__dirname, 'src/pages')
+    }
   }
 };
