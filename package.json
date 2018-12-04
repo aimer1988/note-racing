@@ -1,0 +1,19 @@
+{
+  "name": "note-racing",
+  "version": "1.0.0",
+  "description": "Note game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aimer1988/note-racing.git"
+  },
+  "author": "aimer1988",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aimer1988/note-racing/issues"
+  },
+  "homepage": "https://github.com/aimer1988/note-racing#readme"
+}
